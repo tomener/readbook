@@ -1,6 +1,6 @@
-MySQL基础
+###MySQL基础
 
-MySQL中级
+###MySQL中级
 
   MySQL触发器
   1、http://ourmysql.com/archives/1362
@@ -10,6 +10,6 @@ MySQL中级
   1、
   2、
   
-MySQL高级
+###MySQL高级
 
 ###MySQL优化
