@@ -2,7 +2,7 @@
 
 ##MySQL中级
 
-  ###MySQL触发器
+    ###MySQL触发器
   `1.http://ourmysql.com/archives/1362`
   
   
