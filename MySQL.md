@@ -3,12 +3,12 @@
 ###MySQL中级
 
   ####MySQL触发器
-  >1.http://ourmysql.com/archives/1362                                                                                      2.http://
+  >1.http://ourmysql.com/archives/1362
   
   
   ####MySQL存储过程
-  1.xx
-  2.xx
+  >1.xx
+  >2.xx
   
 ###MySQL高级
 
