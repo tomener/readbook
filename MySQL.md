@@ -2,8 +2,8 @@
 
 ##MySQL中级
 
-###MySQL触发器
-  @(1.http://ourmysql.com/archives/1362)
+  ###MySQL触发器
+  `1.http://ourmysql.com/archives/1362`
   
   
 ###MySQL存储过程
