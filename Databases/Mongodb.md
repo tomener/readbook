@@ -39,3 +39,4 @@ MongoDB的主要目标是在键/值存储方式（提供了高性能和高度伸
 ###资料：
 
 >Mongodb中文社区-->http://www.mongoing.com/
+http://blog.csdn.net/jaketseng/article/details/7829452
