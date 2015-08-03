@@ -1,2 +1,2 @@
 #nice Validator
-URL£ºhttp://niceue.com/validator/
+ç½‘å€ï¼šhttp://niceue.com/validator/
