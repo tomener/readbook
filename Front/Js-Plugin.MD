@@ -1,3 +1,7 @@
+#Js 滚动、slide、幻灯片
+  1、SuperSlide http://www.superslide2.com/index.html
+  
+  
 #Js 拖拽 排序 插件
   1、超强的拖拽排序插件Sortable http://www.jqcool.net/sortable.html
   
